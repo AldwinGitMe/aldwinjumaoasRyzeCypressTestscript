@@ -1,0 +1,10 @@
+
+    {
+        "info1":"Login input elements",
+        "usernameInputfield":"input[id='username']",
+        "passwordInputfield":"input[id='password']",
+        "signinbutton":"button[id='btnSubmit']",
+        "info2":"After logging Out",
+        "aftersignout":"//div[@class='signOut-reason ng-scope'][text()='You have signed out.']",
+        "aftersignouttext":"You have signed out."
+    }

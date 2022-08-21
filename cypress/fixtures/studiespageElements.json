@@ -1,0 +1,36 @@
+[
+    {
+        "info":"studies title page",
+        "studiestitlexpath":"//span[@title='Studies']",
+        "title":"Studies"
+    },
+    {
+        "info":"Tech Study title form",
+        "techstudytitlexpath":"//div[@id='fdxMdbContainerListItem0Name'] //h1",
+        "title":"Tech Study"
+    },
+    {
+        "info":"three bar button on the right side",
+        "threebarbuttonmenu":"span[id='fdxMdbContainerListItem0MenuToggle']"
+    },
+    {
+        "info":"View list link sub menu",
+        "viewsubmenu":"li[id='fdxMdbContainerListItem0View']",
+        "label":"View"
+    },
+    {
+        "info":"Edit list link sub menu",
+        "editsubmenu":"li[id='fdxMdbContainerListItem0Edit']",
+        "label":"Edit"
+    },
+    {
+        "info":"Remove this study list link sub menu",
+        "Removethisstudysubmenu":"li[id='fdxMdbContainerListItem0Delete']",
+        "label":"Remove this study"
+    },
+    {
+        "info":"Transition this study list link sub menu",
+        "Transitionthisstudysubmenu":"li[id='fdxMdbContainerListItem0Transition']",
+        "label":"Transition this study"
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "info":"Repository navigation button",
+        "repository":"p[class='fdxicon-regular fdx-repository fdx-main-nav-item-default']",
+        "repositorynamexpath":"//p[@class='fdx-main-nav-item-label'][text()='Repository']",
+        "buttonName":"Repository"
+    },
+    {
+        "info":"Repository Panel slide overview",
+        "repositorypanel":"div[id='fdxSubNav'] > div"
+    },
+    {
+        "info":"Repository Panel Title",
+        "repositorypaneltitlexpath":"//span[@class='fdx-sub-nav-header-label'][text()='Repository']",
+        "paneltitle":"Repository"
+    },
+    {
+        "info1":"sub menu button and its labels called Standards",
+        "standardssubmenubutton":"ul > li[id='menuMdbStandards']",
+        "standardssubmenuLabelxpath":"//span[@class='fdx-sub-nav-menu-item-label'][text()='Standards']",
+        "standardssubmenuLabel":"Standards",
+        "info2":"sub menu button description",
+        "standardsdescriptionLabelxpath":"//p[@class='fdx-sub-nav-menu-item-desc'][text()='Browse, update and transition standards through their lifecycle']",
+        "submenubuttondescription":"Browse, update and transition standards through their lifecycle"
+    },
+    {
+        "info1":"sub menu button and its labels called Studies",
+        "studiessubmenubutton":"ul > li[id='menuMdbStudies']",
+        "studiessubmenuLabelxpath":"//span[@class='fdx-sub-nav-menu-item-label'][text()='Studies']",
+        "studiessubmenuLabel":"Studies",
+        "info2":"sub menu button description",
+        "studiesdescriptionLabelxpath":"//p[@class='fdx-sub-nav-menu-item-desc'][text()='Browse, update and transition studies through their lifecycle']",
+        "submenubuttondescription":"Browse, update and transition studies through their lifecycle"
+    },
+    {
+        "info1":"sub menu button and its labels called Assets",
+        "assetssubmenubutton":"ul > li[id='menuMdbAssetSearch']",
+        "assetssubmenuLabelxpath":"//span[@class='fdx-sub-nav-menu-item-label'][text()='Assets']",
+        "assetssubmenuLabel":"Assets",
+        "info2":"sub menu button description",
+        "assetsdescriptionLabelxpath":"//p[@class='fdx-sub-nav-menu-item-desc'][text()='Search for an asset within your metadata repository']",
+        "submenubuttondescription":"Search for an asset within your metadata repository"
+    },
+    {
+        "info1":"sub menu button and its labels called Change requests",
+        "changerequestssubmenubutton":"ul > li[id='menuMdbChangeRequests']",
+        "changerequestssubmenuLabelxpath":"//span[@class='fdx-sub-nav-menu-item-label'][text()='Change requests']",
+        "changerequestssubmenuLabel":"Change requests",
+        "info2":"sub menu button description",
+        "changerequestsdescriptionLabelxpath":"//p[@class='fdx-sub-nav-menu-item-desc'][text()='Work with change requests to facilitate updates to standards and studies']",
+        "submenubuttondescription":"Work with change requests to facilitate updates to standards and studies"
+    }
+]

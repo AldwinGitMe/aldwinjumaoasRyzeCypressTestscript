@@ -1,0 +1,21 @@
+[
+    {
+        "info":"User Profile Navigation button",
+        "userprofilenavbutton":"p[class='fdxicon-regular fdx-user fdx-main-nav-item-default']",
+        "userprofilebuttonnamexpath":"//p[@class='fdx-main-nav-item-label'][text()='testteamtechtest']",
+        "buttonName":"testteamtechtest"
+    },
+    {
+        "info":"user profile slide over view panel",
+        "userprofileslideoverviewpanel":"div[id='fdxSubNav"
+    },
+    {
+        "info1":"Sign Out sub menu",
+        "signoutsubmenulink":"li[id='menuUserLogout']",
+        "signoutsubmenulinktextxpath":"//li[@id='menuUserLogout']//span[@class='fdx-sub-nav-menu-item-label']",
+        "signoutlabel":"Sign out",
+        "info2":"Sign out sub menu description",
+        "signoutsubmenudescription":"//li[@id='menuUserLogout']//p[@class='fdx-sub-nav-menu-item-desc']",
+        "signoutsubmenudescriptiontext":"Sign out of ryze"
+    }
+]
